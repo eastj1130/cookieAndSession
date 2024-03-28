@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("git test");
         System.out.println("添加的代码");
         System.out.println("hot-fix分支被修改");
+        System.out.println("hotfix冲突测试");
     }
 }

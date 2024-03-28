@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("master分支冲突");
         System.out.println("hotfix冲突测试");
         System.out.println("push测试");
+        System.out.println("pull测试");
     }
 }
